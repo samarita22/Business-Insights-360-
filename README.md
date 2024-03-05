@@ -167,15 +167,12 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Products
-- Support
-
+-[Home View](https://github.com/samarita22/Business-Insights-360-/blob/main/home.PNG)
+-[Finance View](https://github.com/samarita22/Business-Insights-360-/blob/main/finance%20view.PNG)
+-[Sales View](https://github.com/samarita22/Business-Insights-360-/blob/main/Sales%20View.PNG)
+-[Marketing View](https://github.com/samarita22/Business-Insights-360-/blob/main/Marketing%20View.PNG)
+-[Supply Chain View](https://github.com/samarita22/Business-Insights-360-/blob/main/Supply%20Chain%20View.PNG)
+-[Executive View](https://github.com/samarita22/Business-Insights-360-/blob/main/Executive%20View.PNG)
 
 
 ## Project Outcome
